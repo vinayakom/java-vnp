@@ -8,7 +8,7 @@ public class Document {
 
 	@Override
 	public String toString() {
-		return "Document [id=" + id + ", name=" + name + ", pages=" + pages + "]";
+		return "\nDocument [id=" + id + ", name=" + name + ", pages=" + pages + "]";
 	}
 
 	@Override
